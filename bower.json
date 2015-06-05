@@ -1,0 +1,19 @@
+{
+  "name": "mywebsite",
+  "version": "0.0.0",
+  "authors": [
+    "El Aich Marouane <marouane@nuorder.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0"
+  }
+}
